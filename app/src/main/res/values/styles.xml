@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Widget.Theme.CryptoByte.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <!-- styles.xml -->
+    <style name="amount_paid">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#A3474646</item>
+    </style>
+
+    <style name="account_bal">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#F2FFFFFF</item>
+    </style>
+
+</resources>
